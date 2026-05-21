@@ -332,11 +332,6 @@ This project was built to satisfy the following rubric (100 points total):
 - Email: your.email@example.com
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 <div align="center">
