@@ -8,7 +8,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **An end-to-end Exploratory Data Analysis of Amazon Prime Video's content catalogue — uncovering genre trends, regional distribution, ratings patterns, and content strategy insights across 9,752 titles.**
 
